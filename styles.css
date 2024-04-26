@@ -3,7 +3,7 @@
 :root {
   --bg: #003087;
   --fg: #0085CA;
-  --secondaryFg: #bdae93;
+  --secondaryFg: #FFFFFF;
   --containerBg: #1D2021;
   --searchBg: var(--containerBg);
   --scrollbarColor: #fabd2f;
