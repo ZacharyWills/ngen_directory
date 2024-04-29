@@ -135,7 +135,7 @@ body {
 
 .bookmark-title {
   font-size: 1.1rem;
-  font-weight: 600;
+  font-weight: 500;
   color: var(--fg);
   margin: 0em 0em 0.35em 0em;
 }
