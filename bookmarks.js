@@ -39,9 +39,17 @@ const bookmarks = [
     ],
   },
   {
+    title: "Data",
+    links: [
+      { name: "HydroShare", url: "https://www.hydroshare.org/resource/87365c090b1a45dba0dcd0cc1343f104/" },
+      { name: "AORC_BMI", url: "https://github.com/NOAA-OWP/aorc_bmi" },
+    ],
+  },
+  {
     title: "Examples",
     links: [
       { name: "Colorado School of Mines - Clear Creek", url: "https://github.com/mines-ciroh/clear_creek_demo" },
     ],
   },
 ];
+https://github.com/NOAA-OWP/aorc_bmi
