@@ -19,7 +19,7 @@ const bookmarks = [
     title: "Community",
     links: [
       { name: "DocuHub", url: "https://docs.ciroh.org/" },
-      { name: "News", url: "https://docs.ciroh.org/docs/products/tools/nextgeninabox/news" },
+      { name: "News", url: "https://docs.ciroh.org/docs/products/nextgeninaboxDocker/news/" },
       { name: "Tutorial", url: "https://github.com/CIROH-UA/NGIAB-CloudInfra" },
     ],
   },
