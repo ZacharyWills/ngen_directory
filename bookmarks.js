@@ -8,6 +8,21 @@ const bookmarks = [
     ],
   },
   {
+    title: "Hydro Models",
+    links: [
+      { name: "CFE", url: "https://github.com/NOAA-OWP/cfe" },
+      { name: "Noah-OWP-Modular", url: "https://github.com/NOAA-OWP/noah-owp-modular" },
+      { name: "Topmodel", url: "https://github.com/NOAA-OWP/topmodel" },
+      { name: "LSTM", url: "https://github.com/NOAA-OWP/lstm/" },
+      { name: "Evapotranspiration", url: "https://github.com/NOAA-OWP/evapotranspiration" },
+      { name: "SoilFreezeThaw", url: "https://github.com/NOAA-OWP/SoilFreezeThaw" },
+      { name: "SoilMoistureProfiles", url: "https://github.com/NOAA-OWP/SoilMoistureProfiles" },
+      { name: "Snow17", url: "https://github.com/NOAA-OWP/snow17" },
+      { name: "sac-sma", url: "https://github.com/NOAA-OWP/sac-sma" },
+      { name: "LGAR-C", url: "https://github.com/NOAA-OWP/LGAR-C" },
+    ],
+  },
+  {
     title: "HydroFabric",
     links: [
       { name: "Introduction", url: "https://noaa-owp.github.io/hydrofabric/articles/01-intro-deep-dive.html" },
