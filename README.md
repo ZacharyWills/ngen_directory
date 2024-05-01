@@ -1,6 +1,6 @@
-# [Homepage](https://danggoodcode.com/startpage)
+# NextGen National Water Model Community Directory
 
-![homepage](https://i.redd.it/cbnzq36zj3601.gif)
+<img width="896" alt="Screenshot 2024-05-01 at 16 21 27" src="https://github.com/ZacharyWills/ngen_directory/assets/60660437/87044a01-0491-4609-a595-a467fd7caa20">
 
 ## Customization
 
